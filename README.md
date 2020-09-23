@@ -1,18 +1,17 @@
 # DevelopersBlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+This project is an example of MEAN stack development. Here we are using NodeJS, Express, MongoDB, Mongoose for server side development. Whereas Angular for client side development. Angular app is in /client folder. Refer below details to setup the environment.
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `public/` directory. Use the `--prod` flag for a production build.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run angular application specifically with `ng serve` in `client/` folder for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Running unit tests
 
